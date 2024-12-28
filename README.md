@@ -15,8 +15,7 @@ return input value
 
 ### Play a round
 playRound function
-7 ifs are bad... how to make it better? learn new logic methods in JS
-
+7 ifs are bad
 ### Play a Game
 playGame function
 move selection functions into it
