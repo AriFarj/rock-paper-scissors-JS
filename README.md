@@ -12,3 +12,12 @@ get a random number 1-3 to make the choice
 Build a fucntion called getHumanChoice
 use input prompt()
 return input value
+
+### Play a round
+playRound function
+7 ifs are bad... how to make it better? learn new logic methods in JS
+
+### Play a Game
+playGame function
+move selection functions into it
+put selection + playRound in a for loop
